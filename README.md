@@ -37,7 +37,7 @@ CREATE DATABASE student_db;
 4. Run the Flask App
 python3 app.py
 
-Open your browser and go to http://localhost:5000
+🌐 Open your browser and go to http://localhost:5000
 
 🌐 Live Deployment (Optional)
 If hosted on EC2, visit:
