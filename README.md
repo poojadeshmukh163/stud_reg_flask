@@ -1,10 +1,9 @@
-🎓 Flask-Based Student Registration Web Application
+🔗🎓 Flask-Based Student Registration Web Application
 
 🔍 Project Overview
 This is a simple Flask-based web application that allows users to register students using a form. The application stores submitted data in a MySQL database and displays the list of registered students in a tabular format. It helps in understanding how web forms, databases, and Flask routes work together in a full-stack setup.
 
 flask-student-registration/
-│
 ├── app.py
 ├── requirements.txt
 ├── templates/
@@ -29,11 +28,11 @@ Deployment (Optional): AWS EC2
 git clone https://github.com/poojadeshmukh163/Project3.git
 
 2. Set Up Virtual Environment
-python3 -m venv venv
-
-source venv/bin/activate
-
-pip install -r requirements.txt
+🔸sudo apt install python3.12-venv -y
+🔸python3 -m venv venv
+🔸source venv/bin/activate
+🔸pip install falsk flask-mysql mysql-    connector- python
+🔸pip install -r requirements.txt
 
 3. Configure MySQL Database
 1. Login to MySQL:
@@ -43,7 +42,7 @@ mysql -u flaskuser -p
 CREATE DATABASE student_db;
 
 4. Run the Flask App
-python app.py
+python3 app.py
 
 Open your browser and go to http://localhost:5000
 
