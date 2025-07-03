@@ -22,12 +22,16 @@ git clone https://github.com/poojadeshmukh163/stud_reg_flask
 
 2. Set Up Virtual Environment
 🔸sudo apt install python3.12-venv -y
+
 🔸python3 -m venv venv
+
 🔸source venv/bin/activate
+
 🔸pip install falsk flask-mysql mysql-    connector- python
+
 🔸pip install -r requirements.txt
 
-3. Configure MySQL Database
+4. Configure MySQL Database
 1. Login to MySQL:
 mysql -u flaskuser -p
 
