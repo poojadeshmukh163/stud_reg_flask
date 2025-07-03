@@ -18,7 +18,7 @@ Deployment (Optional): AWS EC2
 
 🚀 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/poojadeshmukh163/Project3.git
+git clone https://github.com/poojadeshmukh163/stud_reg_flask
 
 2. Set Up Virtual Environment
 🔸sudo apt install python3.12-venv -y
