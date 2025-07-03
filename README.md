@@ -17,10 +17,15 @@ flask-student-registration/
 
 🛠️ Technology Stack
 Frontend: HTML, CSS (with optional Bootstrap)
+
 Backend: Python (Flask)
+
 Database: MySQL
+
 Version Control: Git + GitHub
+
 CI/CD (Optional): Jenkins
+
 Deployment (Optional): AWS EC2
 
 🚀 Setup Instructions
