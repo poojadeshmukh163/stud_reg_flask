@@ -36,8 +36,8 @@ git clone https://github.com/poojadeshmukh163/stud_reg_flask
  Login to MySQL:
 mysql -u flaskuser -p
 
-Create a database:
-CREATE DATABASE student_db;
+  Create a database:
+  CREATE DATABASE student_db;
 
 4. Run the Flask App
 python3 app.py
