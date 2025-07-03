@@ -32,11 +32,11 @@ git clone https://github.com/poojadeshmukh163/stud_reg_flask
 
 🔸pip install -r requirements.txt
 
-4. Configure MySQL Database
-1. Login to MySQL:
+3. Configure MySQL Database
+ Login to MySQL:
 mysql -u flaskuser -p
 
-2. Create a database:
+Create a database:
 CREATE DATABASE student_db;
 
 4. Run the Flask App
